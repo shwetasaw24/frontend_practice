@@ -1,0 +1,39 @@
+.m-auto{
+    margin-top: 10px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.ribbon{
+    background-color: black;
+    height: 70px;
+    color: white;
+    border: 2px solid red;
+    align-items: center;
+    
+}
+i{
+    margin: top-left;
+    padding-left: 10px;
+}
+#logo-heading{
+    font-size: 40px;
+    font-family: "Lobster",sans-serif;
+    align-items: center;
+}
+
+.container{
+    margin: 10px;
+}
+img{
+    border-radius: 10px;
+}
+.post{
+    margin-bottom: 20px;
+    width: 340px;
+    margin: auto;
+
+}
