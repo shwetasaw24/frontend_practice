@@ -1,0 +1,13 @@
+.bg{
+    height: 500px;
+    background-image: url(box1_image.jpg);
+    background-repeat: no-repeat;
+    border: 2px solid red;
+    background-size: contain;
+    background-position: center center;
+}
+
+/* adjacent selector */
+div~p{
+    color: red;
+}
